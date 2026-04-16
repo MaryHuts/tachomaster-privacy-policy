@@ -12,11 +12,11 @@ Effective Date: April 16, 2026
 
 Personal Data:
 
-Since we do not collect or store personal data on our own servers, we cannot manually delete any user data. However, any data processed by third-party services (like Google Play Services, Lovable) is managed according to their respective privacy policies, which provide users with tools to manage or delete their information.
+We do not directly collect, store, or sell any personal data (such as names or email addresses) on our own servers. If you wish to request the deletion of any data processed by third-party services, you may do so through your Google Account settings or by contacting the service providers directly. As the developer, I do not have access to or control over this data.
 
 Simulation Data:
 
-Data related to simulated driving times and rest periods are processed via **Lovable / Supabase**. This data is temporary and non-identifiable.
+The app is developed using Lovable and may use Supabase to process simulation-based inputs (e.g., driving times). This data is used solely for the functionality of the simulation. Technical diagnostic data (crash logs, performance stats) may be automatically collected by Google Play Services to ensure app stability.
 
 Third-Party Services:
 
@@ -29,6 +29,10 @@ The app uses third-party services that may collect information used to identify 
 No Direct Communication:
 
 The application **does not include a chat system** or any form of direct messaging between players. Interaction is strictly confined to simulation-based inputs.
+
+Data Deletion:
+
+Since we do not store user data on our own infrastructure, we cannot manually delete specific user records. Users can manage or delete data collected by Google Play Services through their Google Account settings.
 
 ## 3. Children’s Privacy
 
